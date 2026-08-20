@@ -1,0 +1,27 @@
+{
+  "last_updated": "2026-08-20 19:45:25",
+  "problems": [
+    {
+      "id": "need_1",
+      "timestamp": "2026-08-20T19:42:00",
+      "category": "Productivity",
+      "title": "Quick single-click app access",
+      "description": "Need an effortless way to access and launch all installed and running apps from one unified workspace hub and desktop companion.",
+      "status": "in_progress",
+      "recommended_apps": [
+        "Stitch Hub",
+        "VS Code",
+        "Notion"
+      ]
+    },
+    {
+      "id": "need_2",
+      "timestamp": "2026-08-20 19:45:25",
+      "category": "Automation",
+      "title": "Test need for automated testing",
+      "description": "Verify automated persistence",
+      "status": "logged",
+      "recommended_apps": []
+    }
+  ]
+}

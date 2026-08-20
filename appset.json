@@ -1,0 +1,146 @@
+{
+  "last_updated": "2026-08-20 19:45:25",
+  "categories": [
+    "Development",
+    "Productivity",
+    "Communication",
+    "Media & Audio",
+    "AI & Tools",
+    "System"
+  ],
+  "recommendations": [
+    {
+      "name": "VS Code",
+      "category": "Development",
+      "target": "vscode://",
+      "description": "Industry-standard code editor with rich extension ecosystem.",
+      "type": "protocol",
+      "is_preset": true,
+      "tags": [
+        "code",
+        "editor",
+        "dev",
+        "python"
+      ]
+    },
+    {
+      "name": "Google Chrome",
+      "category": "Productivity",
+      "target": "chrome.exe",
+      "description": "Fast and versatile web browser for research and web tools.",
+      "type": "app",
+      "is_preset": true,
+      "tags": [
+        "web",
+        "browser",
+        "internet"
+      ]
+    },
+    {
+      "name": "Notion",
+      "category": "Productivity",
+      "target": "notion://",
+      "description": "All-in-one workspace for notes, docs, task management, and project tracking.",
+      "type": "protocol",
+      "is_preset": true,
+      "tags": [
+        "notes",
+        "tasks",
+        "wiki",
+        "planner"
+      ]
+    },
+    {
+      "name": "Spotify",
+      "category": "Media & Audio",
+      "target": "spotify:",
+      "description": "Music and podcast streaming for deep work focus and relaxation.",
+      "type": "protocol",
+      "is_preset": true,
+      "tags": [
+        "music",
+        "focus",
+        "audio",
+        "lofi"
+      ]
+    },
+    {
+      "name": "Discord",
+      "category": "Communication",
+      "target": "discord://",
+      "description": "Community chat, voice channels, and developer spaces.",
+      "type": "protocol",
+      "is_preset": true,
+      "tags": [
+        "chat",
+        "community",
+        "voice"
+      ]
+    },
+    {
+      "name": "Google AI Studio",
+      "category": "AI & Tools",
+      "target": "https://aistudio.google.com",
+      "description": "Rapidly prototype with Gemini and large language models.",
+      "type": "web",
+      "is_preset": true,
+      "tags": [
+        "ai",
+        "llm",
+        "gemini",
+        "prompts"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "category": "Development",
+      "target": "https://github.com",
+      "description": "Version control, repositories, issue tracking, and CI/CD.",
+      "type": "web",
+      "is_preset": true,
+      "tags": [
+        "git",
+        "repo",
+        "code",
+        "dev"
+      ]
+    },
+    {
+      "name": "Obsidian",
+      "category": "Productivity",
+      "target": "obsidian://",
+      "description": "Powerful markdown knowledge base with local graphs.",
+      "type": "protocol",
+      "is_preset": false,
+      "tags": [
+        "markdown",
+        "notes",
+        "pkm"
+      ]
+    },
+    {
+      "name": "Figma",
+      "category": "Design",
+      "target": "https://figma.com",
+      "description": "Collaborative interface design and prototyping tool.",
+      "type": "web",
+      "is_preset": false,
+      "tags": [
+        "design",
+        "ui",
+        "ux"
+      ]
+    },
+    {
+      "name": "TestApp",
+      "category": "Tools",
+      "target": "testapp.exe",
+      "description": "Test tool",
+      "type": "app",
+      "is_preset": false,
+      "tags": [
+        "test"
+      ]
+    }
+  ]
+}
